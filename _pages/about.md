@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a machine learning engineer with research experience spanning NLP, explainability, computer vision, and signal processing. As a research assistant under the supervision of [Dr. Shaimaa Lazem](https://www.linkedin.com/in/shaimaalazem), I have investigated methods for integrating explainability and trustworthiness into NLP models development and am currently developing a systematic qualitative evaluation framework for the use of LLM agents in educational settings.
+I am a machine learning engineer with research experience spanning NLP, explainability, computer vision, and signal processing. As a research assistant under the supervision of [Dr. Shaimaa Lazem](https://www.linkedin.com/in/shaimaalazem), I have investigated methods for integrating explainability and trustworthiness into NLP models development and am currently developing a systematic qualitative evaluation framework for the use of LLM agents with focus educational settings.
 
 I'm currently also working as an ML engineer, where I focus on developing generative computer-vision systems for medical imaging applications. more about it here:([portfolio](/portfolio/medical-imaging-ai/)).
 
@@ -24,13 +24,20 @@ I am driven to advance socially responsible AI: I want to build transparent, rob
 
 you can read more about them here: [Publications page](/publications/).
 
-**"A New Graph-Transformer Framework for EEG-Based Differentiation of Alzheimer's Disease and Frontotemporal Dementia"**  
-**Youssef Tageldin**, A. Eltrass, H. Farag  
-*Journal of Neural Engineering* (Under Review) | *Preprint available upon request*
+
 
 **"A Data Centric HitL Framework for Conducting a Systematic Error Analysis of NLP Datasets using Explainable AI"**  
 Ahmed El-Sayed, Aly Nasr, **Youssef Mohamed**, Ahmed Alaaeldin, Mohab Ali, Omar Salah, Abdullatif Khalid & Shaimaa Lazem  
 *Scientific Reports* (2025) | [DOI](https://doi.org/10.1038/s41598-025-13452-y)
+
+
+**"A Comparative Framework for Evaluating Arabic LLMs in Educational Conversational Applications"**  
+Shaimaa Lazem, **Youssef Tageldin**, Aly Nasr, et al.  
+*Language Resources and Evaluation (Q1)* (Under Review) | Code: [GitHub](https://github.com/yosftag1/arabic-llm-evaluation-framework) | *Preprint available upon request*
+
+**"A New Graph-Transformer Framework for EEG-Based Differentiation of Alzheimer's Disease and Frontotemporal Dementia"**  
+**Youssef Tageldin**, A. Eltrass, H. Farag  
+*Journal of Neural Engineering* (Under Review) | Code: [GitHub](https://github.com/yosftag1/eeg-alzheimer-classification) |*Preprint available upon request*
 
 ## Current Research
 
