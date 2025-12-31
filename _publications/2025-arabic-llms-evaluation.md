@@ -3,9 +3,11 @@ title: "A Comparative Framework for Evaluating Arabic LLMs in Educational Conver
 collection: publications
 category: manuscripts
 permalink: /publication/2025-arabic-llms-evaluation
-excerpt: 'A comprehensive rubric-based evaluation framework for Arabic Large Language Models in educational settings — Under review at Q1 journal.'
-date: 2025-11-03
-venue: 'Language Resources and Evaluation (Q1, Under Review)'
+excerpt: "Rubric-based evaluation framework for Arabic LLMs in education. (Under Review)"
+date: 2025-10-01
+venue: 'Language Resources and Evaluation (Q1)'
+link: /portfolio/llm-evaluation-framework/
+paperurl: 'http://yosftag1.github.io/files/arabic-llms-evaluation.pdf'
 citation: 'Shaimaa Lazem, Youssef Tageldin, Aly Nasr, et al. (2025). A Comparative Framework for Evaluating Arabic LLMs in Educational Conversational Applications. Language Resources and Evaluation (Under Review).'
 ---
 

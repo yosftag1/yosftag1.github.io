@@ -3,9 +3,10 @@ title: "A Data Centric HitL Framework for Conducting a Systematic Error Analysis
 collection: publications
 category: manuscripts
 permalink: /publication/2025-nature-scientific-reports
-excerpt: 'A Human-in-the-Loop framework designed to debug NLP datasets using Explainable AI techniques, with a case study on emotion detection in Arabic text.'
-date: 2025-08-19
+excerpt: "Human-in-the-Loop framework for systematic error analysis in NLP datasets using XAI. (Published in Scientific Reports)"
+date: 2025-12-01
 venue: 'Scientific Reports'
+link: /portfolio/xai-framework/
 paperurl: 'https://doi.org/10.1038/s41598-025-13452-y'
 citation: 'El-Sayed, A., Nasr, A., Mohamed, Y. et al. A Data Centric HitL Framework for Conducting a Systematic Error Analysis of NLP Datasets using Explainable AI. Sci Rep 15, 30406 (2025). https://doi.org/10.1038/s41598-025-13452-y'
 ---
