@@ -9,36 +9,48 @@ redirect_from:
 
 ## About Me
 
-I am a machine learning engineer with research experience spanning NLP, explainability, computer vision, and signal processing. As a research assistant under the supervision of [Dr. Shaimaa Lazem](https://www.linkedin.com/in/shaimaalazem), I have investigated methods for integrating explainability and trustworthiness into NLP models development and am currently developing a systematic qualitative evaluation framework for the use of LLM agents with focus educational settings.
+I’m a machine learning engineer and researcher with experience across computer vision, NLP, explainable AI, and biomedical signal processing. My work focuses on the research, design, and development of advanced machine learning systems, with an emphasis on robustness, interpretability, and real-world applicability across domains.
 
-I'm currently also working as an ML engineer, where I focus on developing generative computer-vision systems for medical imaging applications. more about it here:([portfolio](/portfolio/medical-imaging-ai/)).
+Currently, I work as an ML Engineer at Contrast AI, where I contribute to the research and design of generative computer-vision models for medical imaging. Previously, I was a research assistant at SRTA-City under [Dr. Shaimaa Lazem](https://www.linkedin.com/in/shaimaalazem), where I worked on explainable AI for NLP and evaluation frameworks for large language models. I’ve led research projects including graph-based transformer models for neurodegenerative disease classification and data-centric approaches for analyzing bias and errors in NLP systems.
 
-## Research Interests
+more about my work can be found in my [portfolio](/portfolio/).
 
-My research interests lie at the intersection of foundational machine learning and real-world applications.  
-I am also interested in deep learning architecture design.  
-I want to work on methods that improve how models form internal representations and perform sequential decision-making and inference, aiming to create novel algorithms and architectures for cutting-edge problems.  
-I am driven to advance socially responsible AI: I want to build transparent, robust, and trustworthy systems for high-stakes domains such as healthcare and education, with work that spans privacy and fairness research as well as interpretable evaluation and human–AI interaction to ensure model behavior aligns with user needs.
+## Interests
 
-## Recent Publications
+My interests lie at the intersection of foundational machine learning and real-world applications:
 
-you can read more about them here: [Publications page](/publications/).
+- **Deep Learning & Architecture Design**: Novel architectures, generative models, representation learning
+- **Computer Vision**: Medical imaging, generative models, image-to-image translation
+- **Trustworthy AI**: Explainability, fairness, robustness, and human-AI alignment
+- **Applied ML**: End-to-end systems for healthcare, NLP, and signal processing  
+- **Data-Centric AI**: Systematic approaches to improve data quality and model reliability
 
+I am driven to advance **socially responsible AI** — building systems that have meaningful, positive impact on society.
 
+---
 
+## Featured Publications
+
+**[View all publications](/publications/)**
+
+### Published
 **"A Data Centric HitL Framework for Conducting a Systematic Error Analysis of NLP Datasets using Explainable AI"**  
-Ahmed El-Sayed, Aly Nasr, **Youssef Mohamed**, Ahmed Alaaeldin, Mohab Ali, Omar Salah, Abdullatif Khalid & Shaimaa Lazem  
-*Scientific Reports* (2025) | [DOI](https://doi.org/10.1038/s41598-025-13452-y)
+Ahmed El-Sayed, Aly Nasr, **Youssef Mohamed**, et al.  
+*Nature Scientific Reports* (2025) | [DOI](https://doi.org/10.1038/s41598-025-13452-y) | [Portfolio](/portfolio/xai-framework/)
 
-
-**"A Comparative Framework for Evaluating Arabic LLMs in Educational Conversational Applications"**  
-Shaimaa Lazem, **Youssef Tageldin**, Aly Nasr, et al.  
-*Language Resources and Evaluation (Q1)* (Under Review) | Code: [GitHub](https://github.com/yosftag1/arabic-llm-evaluation-framework) | *Preprint available upon request*
-
-**"A New Graph-Transformer Framework for EEG-Based Differentiation of Alzheimer's Disease and Frontotemporal Dementia"**  
+### Under Review
+**"A New Graph-Transformer Framework for EEG-Based Differentiation of Alzheimer's Disease"**  
 **Youssef Tageldin**, A. Eltrass, H. Farag  
-*Journal of Neural Engineering* (Under Review) | Code: [GitHub](https://github.com/yosftag1/eeg-alzheimer-classification) |*Preprint available upon request*
+*Journal of Neural Engineering* | [GitHub](https://github.com/yosftag1/eeg-alzheimer-classification) | [Portfolio](/portfolio/eeg-alzheimer-classification/)  
+*(Preprint available upon request)*
 
-## Current Research
+**"A Comparative Framework for Evaluating Arabic LLMs in Educational Applications"**  
+Shaimaa Lazem, **Youssef Tageldin**, et al.  
+*Language Resources and Evaluation (Q1)* | [GitHub](https://github.com/yosftag1/arabic-llm-evaluation-framework) | [Portfolio](/portfolio/llm-evaluation-framework/)  
+*(Preprint available upon request)*
 
-I'm developing a comprehensive evaluation framework for assessing Large Language Models as autonomous agents in educational applications. This work introduces a novel rubric-based evaluation system that moves beyond purely quantitative metrics, enabling qualitative and holistic assessment of model performance in real-world educational scenarios.
+---
+
+## Current Work
+
+At Contrast AI, I develop **generative computer vision models** for medical imaging that achieve state-of-the-art performance in clinical review and quantitative metrics. Read more: [Medical Imaging AI Portfolio](/portfolio/medical-imaging-ai/)

@@ -3,7 +3,7 @@ title: "A Comparative Framework for Evaluating Arabic LLMs in Educational Conver
 collection: publications
 category: manuscripts
 permalink: /publication/2025-arabic-llms-evaluation
-excerpt: 'A comparative framework for evaluating Arabic Large Language Models in educational conversational applications.'
+excerpt: 'A comprehensive rubric-based evaluation framework for Arabic Large Language Models in educational settings — Under review at Q1 journal.'
 date: 2025-11-03
 venue: 'Language Resources and Evaluation (Q1, Under Review)'
 citation: 'Shaimaa Lazem, Youssef Tageldin, Aly Nasr, et al. (2025). A Comparative Framework for Evaluating Arabic LLMs in Educational Conversational Applications. Language Resources and Evaluation (Under Review).'
@@ -11,21 +11,28 @@ citation: 'Shaimaa Lazem, Youssef Tageldin, Aly Nasr, et al. (2025). A Comparati
 
 This research presents a comparative framework designed to evaluate Arabic Large Language Models (LLMs) specifically for educational conversational applications, addressing the unique challenges of Arabic language processing in educational contexts.
 
-## Research Details
+## Evaluation Framework
 
-**Authors:** Shaimaa Lazem, Youssef Tageldin, Aly Nasr, et al.
-
-**Status:** Under Review at Language Resources and Evaluation (Q1 Journal)
-
-**Code Repository:** Available on GitHub
-
-**Preprint:** Available upon request
+![LLM Comparison](/images/projects/llm-evaluation/radar-models-full.png)
+*Comparative evaluation of Arabic LLMs across multiple pedagogical dimensions*
 
 ## Key Contributions
 
-This work establishes a systematic framework for:
-- Evaluating Arabic LLM performance in educational settings
-- Comparing different Arabic language models for conversational applications
-- Addressing domain-specific challenges in Arabic educational technology
+- **Novel Rubric-Based Evaluation**: Multi-dimensional assessment beyond simple accuracy metrics
+- **Arabic-Specific Focus**: Addresses unique challenges of Arabic NLP in education
+- **Inter-Rater Reliability**: Robust validation ensuring consistent evaluation
 
-**Journal Impact:** Language Resources and Evaluation is a Q1 journal in the field of computational linguistics and natural language processing.
+![Inter-Rater Analysis](/images/projects/llm-evaluation/inter-rater-metrics.png)
+*Statistical validation of evaluation consistency across human raters*
+
+## Research Details
+
+**Authors:** Shaimaa Lazem, **Youssef Tageldin**, Aly Nasr, et al.
+
+**Status:** Under Review at Language Resources and Evaluation (Q1 Journal)
+
+**Code Repository:** [github.com/yosftag1/arabic-llm-evaluation-framework](https://github.com/yosftag1/arabic-llm-evaluation-framework)
+
+**Preprint:** Available upon request
+
+**[View Full Portfolio Project](/portfolio/llm-evaluation-framework/)**

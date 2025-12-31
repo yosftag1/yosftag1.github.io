@@ -7,32 +7,37 @@ excerpt: 'A Human-in-the-Loop framework designed to debug NLP datasets using Exp
 date: 2025-08-19
 venue: 'Scientific Reports'
 paperurl: 'https://doi.org/10.1038/s41598-025-13452-y'
-citation: 'El-Sayed, A., Nasr, A., Mohamed, Y. et al. A Data Centric HitL Framework for Conducting aSsystematic Error Analysis of NLP Datasets using Explainable AI. Sci Rep 15, 30406 (2025). https://doi.org/10.1038/s41598-025-13452-y'
+citation: 'El-Sayed, A., Nasr, A., Mohamed, Y. et al. A Data Centric HitL Framework for Conducting a Systematic Error Analysis of NLP Datasets using Explainable AI. Sci Rep 15, 30406 (2025). https://doi.org/10.1038/s41598-025-13452-y'
 ---
 
-The interest in data-centric AI has been recently growing. As opposed to model-centric AI, data-centric approaches aim at iteratively and systematically improving the data throughout the model life cycle rather than in a single pre-processing step. The merits of such an approach have not been fully explored on NLP datasets. 
+**Published in Nature Scientific Reports** — Featured case study on Arabic emotion detection using a novel data-centric AI approach.
 
-**X-Deep Framework**: A Human-in-the-Loop framework designed to debug an NLP dataset using Explainable AI techniques, proposed to uncover data problems related to emotion detection tasks.
+## X-Deep Framework
+
+![Framework Diagram](/images/projects/xai-framework/framework-diagram.png)
+*The X-Deep Human-in-the-Loop framework for systematic dataset debugging*
+
+## Abstract
+
+The interest in data-centric AI has been recently growing. As opposed to model-centric AI, data-centric approaches aim at iteratively and systematically improving the data throughout the model life cycle rather than in a single pre-processing step.
+
+**X-Deep Framework**: A Human-in-the-Loop framework designed to debug NLP datasets using Explainable AI techniques.
+
+## Explainable AI Analysis
+
+![LIME and SHAP Example](/images/projects/xai-framework/lime-shap-example.jpg)
+*LIME and SHAP outputs revealing how repeated words influence emotion classification*
 
 ## Key Contributions
 
-**Case Study**: Emotion detection in Arabic text using a thorough analysis that leveraged two Explainable AI techniques:
-- **LIME** (Local Interpretable Model-agnostic Explanations)
-- **SHAP** (SHapley Additive exPlanations)
+- **Case Study**: Emotion detection in Arabic text using LIME and SHAP
+- **Multi-Classifier Analysis**: Naive Bayes, Logistic Regression, GRU, MARBERT
+- **Pattern Discovery**: Identified spurious correlations, bias patterns, and anomalies
+- **Actionable Insights**: Mitigation strategies for improved data collection and augmentation
 
-**Analysis conducted** on misclassified instances for four classifiers:
-- Naive Bayes
-- Logistic Regression  
-- GRU (Gated Recurrent Unit)
-- MARBERT
+## Publication Details
 
-## Results
+**Published**: August 19, 2025 | **Volume**: 15, Article 30406  
+**DOI**: [10.1038/s41598-025-13452-y](https://doi.org/10.1038/s41598-025-13452-y)
 
-The systematic process resulted in identifying:
-- **Spurious correlation** patterns in the dataset
-- **Bias patterns** affecting model performance
-- **Other anomaly patterns** requiring attention
-
-**Impact**: Appropriate mitigation strategies are suggested for an informed and improved data collection, processing and augmentation plan for performing emotion detection tasks on this dataset.
-
-**Published**: August 19, 2025 | **Volume**: 15, Article 30406 | **DOI**: [10.1038/s41598-025-13452-y](https://doi.org/10.1038/s41598-025-13452-y)
+**[View Full Portfolio Project](/portfolio/xai-framework/)**
