@@ -54,3 +54,13 @@ Shaimaa Lazem, **Youssef Tageldin**, et al.
 ## Current Work
 
 At Contrast AI, I develop **generative computer vision models** for medical imaging that achieve state-of-the-art performance in clinical review and quantitative metrics. Read more: [Medical Imaging AI Portfolio](/portfolio/medical-imaging-ai/)
+
+---
+
+## Selected Projects
+
+<div class="grid__wrapper">
+{% for post in site.portfolio %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
